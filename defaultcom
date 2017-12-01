@@ -1,0 +1,1 @@
+python main.py .8 4 300 min_comp_size input_file output_file
